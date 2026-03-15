@@ -1,2 +1,3 @@
-# highlevele-crm-automation
-CRM and automation workflows focused on improving customer management, integrations, and scalable business processes. Built and maintained by Highlevele.
+# leadsflex-ghl-assets
+LeadsFlex is a team of GoHighLevel experts helping agencies and businesses automate CRM, build high-converting funnels, streamline workflows, integrate AI tools, and optimize lead management to increase conversions, save time, and grow revenue efficiently.
+Website: https://leadsflex.com/
